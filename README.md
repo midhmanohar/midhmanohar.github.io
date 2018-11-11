@@ -1,1 +1,0 @@
-# midhmanohar.github.io
