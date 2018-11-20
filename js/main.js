@@ -7,5 +7,6 @@ $(document).ready(function(){
         strings: ["Midhun"],
         typeSpeed : 150,
         showCursor : false,
+        loop:true
       });
 });
