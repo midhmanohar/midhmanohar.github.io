@@ -6,7 +6,8 @@ $(document).ready(function(){
         // Waits 1000ms after typing "First"
         strings: ["Midhun"],
         typeSpeed : 150,
-        showCursor : false,
-        loop:true
+        loop:true,
+        showCursor : false
+        
       });
 });
