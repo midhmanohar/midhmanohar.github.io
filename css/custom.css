@@ -41,3 +41,13 @@
     width:40%;
     margin-bottom: 15px;
 }
+.link{
+    text-decoration: none;
+}
+.underline{
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+#code{
+    color: #3366ff;
+}
