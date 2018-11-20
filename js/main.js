@@ -3,7 +3,6 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     var typed = new Typed("#typed", {
-        // Waits 1000ms after typing "First"
         strings: ["Midhun"],
         typeSpeed : 150,
         loop:true,
